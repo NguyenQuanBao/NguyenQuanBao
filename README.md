@@ -48,16 +48,18 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10](https://github-readme-stats.vercel.app/api?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false)" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" />
-  <br/>     
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongLai301&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
-<br/>
-<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api?username=NguyenQuanBao&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenQuanBao&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenQuanBao&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <div>
+
+<hr/>
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+![](https://github-profile-trophy.vercel.app/?username=NguyenQuanBao&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 [![spotify-github-profile](https://spotify-recently-played-readme.vercel.app/api?user=314a2ziu6w625nnz25pbl2qiyh4a&unique={true|1|on|yes})](https://github.com/kittinan/spotify-github-profile)
 <div width=390>

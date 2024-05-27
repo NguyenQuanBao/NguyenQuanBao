@@ -38,7 +38,7 @@
 <h2>🐍 My Contributions 🐍</h2>
 <br>
  
-![snake animation](https://github.com/TrongLai301/TrongLai301/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/NguyenQuanBao/NguyenQuanBao/blob/output/github-contribution-grid-snake.svg)
 
 <br/><br/><br/>
 </div>
